@@ -1,2 +1,1 @@
-名前変えてみた
-メアド変えてみた
+Hello git-hub world!
